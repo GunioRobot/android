@@ -174,7 +174,7 @@
   <project path="vendor/pv-open" name="platform/vendor/pv-open" revision="master" />
 
   <project path="vendor/aosp" name="platform/vendor/aosp" revision="master" />
-  <project path="vendor/cyanogen" name="Topsy/android_vendor_cyanogen" remote="github" revision ="eclair" />
+  <project path="vendor/cyanogen" name="Topsy/android_vendor_cyanogen" remote="github" revision ="alldroid" />
   <project path="vendor/sample" name="platform/vendor/sample" revision="master" />
 </manifest>
 
