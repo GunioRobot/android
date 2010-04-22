@@ -6,7 +6,7 @@ http://source.android.com/download/using-repo
 To initialize your local repository using the eclair (ese81) trees, 
 use a command like this:
 
-repo init -u git://github.com/Topsy/android.git -b eclair
+repo init -u git://github.com/Topsy/android.git -b alldroid
 
 Then to sync up:
 
