@@ -100,7 +100,7 @@
   <project path="frameworks/opt/com.google.android" name="platform/frameworks/opt/com.google.android" />
   <project path="frameworks/opt/com.google.android.googlelogin" name="platform/frameworks/opt/com.google.android.googlelogin" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
-  <project path="frameworks/policies/base" name="platform/frameworks/policies/base" />
+  <project path="frameworks/policies/base" name="Topsy/platform_frameworks_policies_base" remote="github" revision="eclair" />
 
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" />
@@ -158,7 +158,7 @@
 
   <project path="prebuilt" name="platform/prebuilt" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
-  <project path="system/core" name="platform/system/core" />
+  <project path="system/core" name="Topsy/platform_system_core" remote="github" revision="eclair" />
   <project path="system/extras" name="cyanogen/android_system_extras" remote="github" revision="eclair" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
 
