@@ -3,10 +3,10 @@ familiar with Git and Repo.
 
 http://source.android.com/download/using-repo
 
-To initialize your local repository using the eclair (ese81) trees, 
+To initialize your local repository using the froyo trees, 
 use a command like this:
 
-repo init -u git://github.com/Topsy/android.git -b alldroid
+repo init -u git://github.com/Topsy/android.git -b froyo
 
 Then to sync up:
 
